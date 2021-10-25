@@ -20,12 +20,13 @@
 
         <!-- 依赖关系 -->
         <!--api - service -> mapper- > pojo -> common -->
-
         <dependency>
             <groupId>top.maserhe</groupId>
             <artifactId>foodie-dev-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
+
 
     </dependencies>
 </project>
